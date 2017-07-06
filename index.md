@@ -1,5 +1,6 @@
 ---
 layout: page
+title: The F# Mirror
 ---
 
 # Board member plans for the first two months

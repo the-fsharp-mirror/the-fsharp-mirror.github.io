@@ -24,7 +24,8 @@ On May 30, I posted the following question to the F# Foundation Slack channel:
 
 Everyone from the board was happy to share their plans for the first two months and I got answers
 from everyone in a day or two. I was a bit slow at putting them online (sorry!) but here are the
-plans for all the board members (slightly edited for formatting):
+plans for all the board members (slightly edited for formatting, sorted alphabetically as in the
+[board announcement](http://foundation.fsharp.org/2017_annual_members_meeting)):
 
  * **Alena Hall** ([@lenadroid](http://twitter.com/lenadroid)) - Finish draft of "open agenda" and 
   help make it happen [edit: "open agenda" would let the community see and contribute topics for

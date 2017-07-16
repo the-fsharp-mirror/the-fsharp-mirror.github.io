@@ -13,7 +13,7 @@ layout: default
   {% endif %}
 {% endfor %}
 
-{% if site.posts | size > 3 %}
+{% if site.posts.size > 3 %}
   <hr class="older">
   <h2>Past Reflections</h2>
   {% for post in site.posts offset:3 %}

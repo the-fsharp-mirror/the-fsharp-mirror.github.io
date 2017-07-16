@@ -1,11 +1,9 @@
 ---
-layout: page
-title: The F# Mirror
+layout: post
+title: Board member plans for the first two months
+author: Tomas Petricek
+date: 2017-07-06
 ---
-
-# Board member plans for the first two months
-
-#### Tomas Petricek, 6 July 2017
 
 Back in May 2017, the F# Software Foundation [elected the new Board of 
 Trustees](http://foundation.fsharp.org/2017_annual_members_meeting). In the previous years,

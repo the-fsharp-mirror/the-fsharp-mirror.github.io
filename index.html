@@ -1,0 +1,23 @@
+---
+layout: default
+---
+{% for post in site.posts limit:3 %}
+  <h1>{{ post.title | smartify }}</h1>
+  <h4>
+    {{ post.author | smartify }}, {{ post.date | date: "%-d %B %Y" }}
+    <a href="{{ post.url | absolute_url }}">#</a>
+  </h4>
+  {{ post.content | smartify }}
+  {% if post.previous %}
+    <br><br>
+  {% endif %}
+{% endfor %}
+
+{% if site.posts | size > 3 %}
+  <hr class="older">
+  <h2>Past Reflections</h2>
+  {% for post in site.posts offset:3 %}
+    <strong><a href="{{ post.url | absolute_url }}">{{ post.title | smartify }}</a></strong>
+    by {{ post.author | smartify }} <em>({{ post.date | date: "%-d %B %Y" }})</em><br>
+  {% endfor %}
+{% endif %}

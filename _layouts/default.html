@@ -7,7 +7,7 @@
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"   
     integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif+Caption" rel="stylesheet">
-  <title>The F# Mirror</title>
+  <title>{{ site.title | escape }}{% if page.title %} &lt;| {{ page.title | escape }}{% endif %}</title>
   <style type="text/css">
   body {
     font-family:'PT Sans';
@@ -41,6 +41,10 @@
     font:16pt 'PT Sans';
     margin:10px 0px 30px 0px;
   }
+  hr.older {
+    border:solid 2px black;
+    margin: 0 -10px;
+  }
   </style>
 </head>
 <body>
@@ -48,7 +52,7 @@
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-sm-12 col-md-10 header">
-        <h1>The F# Mirror</h1>
+        <h1>{{ site.title }}</h1>
       </div>
     </div>
   </div>

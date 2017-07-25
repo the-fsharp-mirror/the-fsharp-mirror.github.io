@@ -2,10 +2,9 @@
 layout: default
 ---
 {% for post in site.posts limit:3 %}
-  <h1>{{ post.title | smartify }}</h1>
+  <h1><a href="{{ post.url | absolute_url }}">{{ post.title | smartify }}</a></h1>
   <h4>
     {{ post.author | smartify }}, {{ post.date | date: "%-d %B %Y" }}
-    <a href="{{ post.url | absolute_url }}">#</a>
   </h4>
   {{ post.content | smartify }}
   {% if post.previous %}

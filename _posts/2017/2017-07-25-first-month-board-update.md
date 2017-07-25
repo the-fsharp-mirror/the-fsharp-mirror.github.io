@@ -131,3 +131,7 @@ There were also two interesting discussions in the #fssf channel that your repor
 The F# Mirror did not get an update from Scott Wlaschin, Victor Peter Rouven Müller
 and Yukitoshi Suzuki this time, but as noted above - this was just an opportunity to share
 news with The F# Mirror readers!
+
+Finally, thanks to [our first contributor](https://github.com/the-fsharp-mirror/the-fsharp-mirror.github.io/pull/2),
+[Daniel J. Summers](https://github.com/danieljsummers), The F# Mirror now uses Jekyll in a more
+reasonable way, so you can share links to individual posts!

@@ -31,10 +31,10 @@ news from the first two months are:
    offers free tickets to F# conferences and other events for members from underrepresented minorities.   
    Thanks to Kit Eason ([@kitlovesfsharp](https://twitter.com/kitlovesfsharp)) who initiated this.
    
- * [**F# Mentorship (round 2)**](http://fsharp.org/mentorship/) - The F# Software foundation organised
-   second round of the mentorship programme which pairs students with mentors and provides a great way
+ * [**F# Mentorship (round 3)**](http://fsharp.org/mentorship/) - The F# Software foundation organised
+   third round of the mentorship programme which pairs students with mentors and provides a great way
    to learn more about F# by meeting regularly for 8 weeks. Thanks to Gien Verschatse ([@selketjah](http://twitter.com/selketjah)
-   for getting the round two started. This is happening now, but keep an eye on
+   for getting the round three started. This is happening now, but keep an eye on
    [@fsharporg](https://twitter.com/fsharporg) for future rounds!
    
  * [**Open meeting agenda**](https://github.com/fsharp/fssf-ask-the-board) - The open meeting agenda
@@ -196,7 +196,7 @@ things in her retrospective:
 
  - Became the Chairperson of the Training and Education Working Group and adapted her 2 month goals to focus more on 
    activities related to the mission of this group.
- - Started the second round of the [F# Mentorship programme](http://fsharp.org/mentorship/).
+ - Started the third round of the [F# Mentorship programme](http://fsharp.org/mentorship/).
  - Has been running regular office hours on every other Monday (5pm London, 9am West, 
    12pm East, 1am Tokyo). 
  - Became the distributor of F# stickers for Europe. If you need some, ping 
@@ -212,3 +212,7 @@ things in her retrospective:
 ### Scott Wlaschin ([@ScottWlaschin](http://twitter.com/ScottWlaschin))
 
 [We were not able to get a reply on Slack from Scott.]
+
+### Article history
+
+ - 21 September - The new round of mentorship is third rather than second round as previously reported. (Thanks Gien for the correction!)

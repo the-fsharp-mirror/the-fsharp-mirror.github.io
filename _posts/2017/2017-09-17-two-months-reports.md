@@ -6,7 +6,7 @@ date: 2017-09-17
 ---
 
 Back in July, we asked everyone on the F# Software Foundation board [what are their plans
-for the first two months](http://localhost:8081/2017/board-member-plans-for-the-first-two-months).
+for the first two months](https://the-fsharp-mirror.github.io/2017/board-member-plans-for-the-first-two-months).
 Two months later, in August, I asked everyone to write a brief retrospective:
 
 > Big thanks to everyone who responded to my question about "2 month plans" for their board 

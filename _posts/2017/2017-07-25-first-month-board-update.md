@@ -12,6 +12,8 @@ of time before these are due, but I collected a couple of mid-term updates. The 
 first meeting of the new board also [appeared on the foundation web 
 site](http://foundation.fsharp.org/board_meeting_20170606), so there are more news to report!
 
+---
+
 ## What's in the meeting notes?
 
 Let's start with the [meeting notes](http://foundation.fsharp.org/board_meeting_20170606). Here

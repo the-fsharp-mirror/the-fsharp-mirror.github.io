@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-{% for post in site.posts limit:3 %}
+
+{% for post in site.posts limit:1 %}
   <h1><a href="{{ post.url | absolute_url }}">{{ post.title | smartify }}</a></h1>
   <h4>
     {{ post.author | smartify }}, {{ post.date | date: "%-d %B %Y" }}
@@ -12,11 +13,14 @@ layout: default
   {% endif %}
 {% endfor %}
 
-{% if site.posts.size > 3 %}
+{% if site.posts.size > 1 %}
   <hr class="older">
-  <h2>Past Reflections</h2>
-  {% for post in site.posts offset:3 %}
-    <strong><a href="{{ post.url | absolute_url }}">{{ post.title | smartify }}</a></strong>
-    by {{ post.author | smartify }} <em>({{ post.date | date: "%-d %B %Y" }})</em><br>
+  <h1>Previously in the F# Mirror</h1>
+  {% for post in site.posts offset:1 %}
+    <h2 style="margin:40px 0px 5px 0px"><a href="{{ post.url | absolute_url }}">{{ post.title | smartify }}</a></h2>
+    <h4 style="margin:0px 0px 10px 0px">{{ post.author | smartify }}, ({{ post.date | date: "%-d %B %Y" }})</h4>
+
+  	{{ post.content | split:'<hr />' | first }}
+  
   {% endfor %}
 {% endif %}

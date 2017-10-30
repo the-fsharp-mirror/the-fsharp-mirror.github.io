@@ -20,6 +20,8 @@ Two months later, in August, I asked everyone to write a brief retrospective:
 > I'd like to split the retrospectives from more future plans - I will be coming back to 
 > collect future plans next week!
 
+---
+
 ## Announcements
 
 Before I share the retrospectives from the board members, I thought that it would be useful to 

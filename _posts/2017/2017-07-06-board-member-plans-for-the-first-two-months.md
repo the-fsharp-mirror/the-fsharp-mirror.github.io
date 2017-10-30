@@ -18,6 +18,8 @@ On May 30, I posted the following question to the F# Foundation Slack channel:
 > member in the next two months? I know how hard it is to do larger things, so this could be really 
 > anything - even a small thing - that can be marked as "done" after two months. (...)
 
+---
+
 ## Answers from members
 
 Everyone from the board was happy to share their plans for the first two months and I got answers

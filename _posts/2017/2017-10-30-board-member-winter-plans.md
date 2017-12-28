@@ -66,7 +66,7 @@ alphabetically below):
   interesting to you, feel free to ping me! 
 
 * **Victor Peter Rouven Müller** ([@realvictorprm](http://twitter.com/realvictorprm)) -
-  I'm still trying to find ways of how to spread the world effectively. I hope to find some ways 
+  I'm still trying to find ways of how to spread the word effectively. I hope to find some ways 
   to do so at the university but can't promise anything. In the next 3 months I plan to convert some 
   of the people at the university to F#ers. This is something which can definitely be achieved.
   [_Your reporter asked how will we know this happened. Will they perhaps write a blog post about
